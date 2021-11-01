@@ -7,39 +7,6 @@ Bonjour et bienvenue sur mon profil GitHub ! Je m'appelle Benjamin PELAUDEIX, j'
 Je réalise cette année une alternance chez [Emakina.FR](@Emakina.FR).
 
 ## Mes compétences 🛠
-### Langages de programmation (logiciels)
-- C / C++
-- Java
-- Python
 
-### Front-End (Web)
-- HTML5
-- CSS3
-- JavaScript
-
-### Frameworks Front-End (Web)
-- React
-
-### Back-End (Web)
-- PHP
-- Node.JS
-
-### Frameworks Back-End (Web)
-- Symfony
-
-### CMS (Web)
-- Wordpress
-- Directus
-
-### Versioning
-- Git
-- GitHub
-- GitLab
-
-### Méthodologies
-- Agiles
-
-### Outils de gestion de projet
-- Miro
-- Trello
-- Jira
+## Mes principaux projets 📁
+[](https://github/Benjamin-Pelaudeix/Loud-V2)
