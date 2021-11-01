@@ -9,4 +9,4 @@ Je réalise cette année une alternance chez [Emakina.FR](@Emakina.FR).
 ## Mes compétences 🛠
 
 ## Mes principaux projets 📁
-[](https://github/Benjamin-Pelaudeix/Loud-V2)
+[Loud Esport](https://github/Benjamin-Pelaudeix/Loud-V2)
